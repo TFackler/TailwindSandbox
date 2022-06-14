@@ -11,6 +11,9 @@ module.exports = {
       fontFamily: {
         'josefin-sans': ['"Josefin Sans"'],
         'work-sans': ['"Work Sans"']
+      },
+      backgroundImage: {
+        'hero': "url('/res/forest_blurred.png')",
       }
     },
   },
