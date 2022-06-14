@@ -5,5 +5,9 @@ This is a sandbox project for getting the gist of tailwindcss.
 - It is also recommended to use the "Tailwind CSS IntelliSense" (adds autocomplete) and "Headwind" (automatically sorts tailwind classes) extensions in vscode to aid development.
 - More scripts are available in the `package.json`.
 
+### Planned additions
+- darkmode with toggle
+- footer
+
 ### Asset credits
 - forest image: https://www.pexels.com/photo/aerial-photography-of-green-pines-574190/
