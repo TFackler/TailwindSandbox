@@ -5,6 +5,10 @@ This is a sandbox project for getting the gist of tailwindcss.
 - It is also recommended to use the "Tailwind CSS IntelliSense" (adds autocomplete) and "Headwind" (automatically sorts tailwind classes) extensions in vscode to aid development.
 - More scripts are available in the `package.json`.
 
+### Screenshots
+![Desktop View](https://i.imgur.com/ZauZDwV.png)
+![Mobile View](https://i.imgur.com/kmt0Rks.png)
+
 ### Planned additions
 - darkmode with toggle
 - footer
